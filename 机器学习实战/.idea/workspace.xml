@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8fdd45c-17db-4c0b-8068-366f7641cd55" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$noteForLamada.coverage" NAME="noteForLamada Coverage Results" MODIFIED="1568430125345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonNote" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$trees.coverage" NAME="trees Coverage Results" MODIFIED="1568980319955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$kNN.coverage" NAME="kNN Coverage Results" MODIFIED="1568809813802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter2" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1567979895955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter1" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1568989259375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Chapter3/treePlotter.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1RDlAxM8qZWOVornSZdZFxxPY41" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../区块链项目/json解析" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\区块链项目\json解析" />
+      <recent name="F:\MachineLearningInAction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\区块链项目\usdt_viewer_19029" />
+      <recent name="F:\MachineLearningInAction" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlockChain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../区块链项目/json解析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../区块链项目/json解析/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__ (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearningInAction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter6/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flask01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlockChain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../区块链项目/json解析" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../区块链项目/json解析/flask01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlockChain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../区块链项目/json解析/my_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../区块链项目/json解析/my_demo/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pa1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BlockChain" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../区块链项目/ChainTraceGo/爬虫" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../区块链项目/ChainTraceGo/爬虫/pa1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.__init__ (1)" />
+      <item itemvalue="Python.__init__ (2)" />
+      <item itemvalue="Python.pa1" />
+      <item itemvalue="Python.flask01" />
+      <item itemvalue="Python.main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.flask01" />
+        <item itemvalue="Python.pa1" />
+        <item itemvalue="Python.__init__ (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8fdd45c-17db-4c0b-8068-366f7641cd55" name="Default" comment="" />
+      <created>1567979738772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567979738772</updated>
+      <workItem from="1569209427004" duration="1682000" />
+      <workItem from="1569211224401" duration="35000" />
+      <workItem from="1569211606032" duration="374000" />
+      <workItem from="1569211995560" duration="500000" />
+      <workItem from="1569242539437" duration="4186000" />
+      <workItem from="1569401193473" duration="3397000" />
+      <workItem from="1569467178635" duration="1108000" />
+      <workItem from="1569493980252" duration="4910000" />
+      <workItem from="1569654950755" duration="6250000" />
+      <workItem from="1569761841375" duration="3225000" />
+      <workItem from="1570004728030" duration="1201000" />
+      <workItem from="1570160338218" duration="9668000" />
+      <workItem from="1570183886680" duration="140000" />
+      <workItem from="1570260095790" duration="7403000" />
+      <workItem from="1570283311127" duration="786000" />
+      <workItem from="1570454671989" duration="2741000" />
+      <workItem from="1570546088981" duration="1367000" />
+      <workItem from="1570679476332" duration="908000" />
+      <workItem from="1570763119841" duration="1649000" />
+      <workItem from="1571318196012" duration="369000" />
+      <workItem from="1571319701330" duration="407000" />
+      <workItem from="1571321036751" duration="11000" />
+      <workItem from="1571321063216" duration="4182000" />
+      <workItem from="1571385071419" duration="5392000" />
+      <workItem from="1571402257089" duration="1243000" />
+      <workItem from="1571452434178" duration="2071000" />
+      <workItem from="1571884247667" duration="7293000" />
+      <workItem from="1571922208776" duration="4777000" />
+      <workItem from="1571970742330" duration="4239000" />
+      <workItem from="1572015368735" duration="211000" />
+      <workItem from="1572015605672" duration="261000" />
+      <workItem from="1572056925217" duration="1733000" />
+      <workItem from="1572078268187" duration="13551000" />
+      <workItem from="1572144398053" duration="14092000" />
+      <workItem from="1572248495937" duration="11591000" />
+      <workItem from="1572337517778" duration="2864000" />
+      <workItem from="1572417852138" duration="141000" />
+      <workItem from="1572522294045" duration="3252000" />
+      <workItem from="1572598143270" duration="380000" />
+      <workItem from="1572598611062" duration="11846000" />
+      <workItem from="1572663053088" duration="1509000" />
+      <workItem from="1572750166895" duration="521000" />
+      <workItem from="1573124893244" duration="698000" />
+      <workItem from="1573195886503" duration="1221000" />
+      <workItem from="1573469650164" duration="832000" />
+      <workItem from="1573910042549" duration="132000" />
+      <workItem from="1574148954757" duration="2233000" />
+      <workItem from="1574336089841" duration="10632000" />
+      <workItem from="1574653329444" duration="487000" />
+      <workItem from="1574653909207" duration="1920000" />
+      <workItem from="1574737002238" duration="9648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1574744179492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../区块链项目/json解析" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$svmMLiA.coverage" NAME="svmMLiA Coverage Results" MODIFIED="1572167871659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$bayes.coverage" NAME="bayes Coverage Results" MODIFIED="1570546149962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$RSS_bayes.coverage" NAME="RSS_bayes Coverage Results" MODIFIED="1569764071336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter4" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$pa1.coverage" NAME="pa1 Coverage Results" MODIFIED="1574347630370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../区块链项目/ChainTraceGo/爬虫" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$treePlotter.coverage" NAME="treePlotter Coverage Results" MODIFIED="1569244414520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1572360582861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonNote" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$__init____2_.coverage" NAME="__init__ (2) Coverage Results" MODIFIED="1572615062308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$lenses.coverage" NAME="lenses Coverage Results" MODIFIED="1570161161972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$pytest_in_SMO_kernel_py.coverage" NAME="pytest in SMO-kernel.py Coverage Results" MODIFIED="1572263631558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$MO.coverage" NAME="MO Coverage Results" MODIFIED="1572522358543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$flask01.coverage" NAME="flask01 Coverage Results" MODIFIED="1574654050324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../区块链项目/json解析" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$logRegress.coverage" NAME="logRegress Coverage Results" MODIFIED="1570679663928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter5" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$main.coverage" NAME="main Coverage Results" MODIFIED="1572605490581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../区块链项目/my_demo" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$trees.coverage" NAME="trees Coverage Results" MODIFIED="1569246160130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter3" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$LineRegress.coverage" NAME="LineRegress Coverage Results" MODIFIED="1571408096544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter 8" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1574748826630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../区块链项目/json解析/my_demo" />
+    <SUITE FILE_PATH="coverage/MachineLearningInAction$SMO_kernel.coverage" NAME="SMO-kernel Coverage Results" MODIFIED="1572600429475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter6" />
+  </component>
+</project>

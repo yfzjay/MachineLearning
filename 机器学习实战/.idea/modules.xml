@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../区块链项目/.idea/BlockChain.iml" filepath="$PROJECT_DIR$/../区块链项目/.idea/BlockChain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MachineLearningInAction.iml" filepath="$PROJECT_DIR$/.idea/MachineLearningInAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../区块链学习/python-bitcoinlib-master/.idea/python-bitcoinlib-master.iml" filepath="$PROJECT_DIR$/../区块链学习/python-bitcoinlib-master/.idea/python-bitcoinlib-master.iml" />
+    </modules>
+  </component>
+</project>

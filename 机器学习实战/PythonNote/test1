@@ -1,0 +1,23 @@
+{"Height":258529,
+  "Hash":"0f4bccdfd3ac1361589b425695c0404b2e50f9ae78ca2a2ed35c9c3344dc4c22",
+  "Time":1379442328,
+  "Fee":50000,
+  "Block":"0000000000000013a3237848240cb89c46c0f7b358add97e683cf5eb9e3e9602",
+  "Depth":1,
+  "Wallet":"",
+  "Label":"",
+  "Type":"",
+  "Inputs":
+  [{"Index":0,
+    "Address":"149w62rY42aZBox8fGcmqNsXUzSStKeq8C",
+	"Value":300000000,
+	"Hash":"1595daf55fcb12a42af345d0c929751e7e1428b68d56b97ff336ef7656e3b661"},
+   {"Index":1,
+    "Address":"149w62rY42aZBox8fGcmqNsXUzSStKeq8C",
+	"Value":6752588,
+	"Hash":"5be441372cd4d724b71c8f951ec2311a539b971584bd2595ad4e79649d042201"}],
+  "Outputs":
+  [{"Address":"1V5aVYZHXHjqWP2U6mxcp8Pqc7GjBpV4R",
+    "Value":300000000},
+	{"Address":"149w62rY42aZBox8fGcmqNsXUzSStKeq8C",
+	"Value":6702588}]}
