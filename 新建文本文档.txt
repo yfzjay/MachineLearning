@@ -1,0 +1,5 @@
+func f1(){
+fmt.println("sss");
+local
+
+}
