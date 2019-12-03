@@ -6,5 +6,9 @@ locasss
 dfbskdjfsssb
 sss
 sddfbskdjfb
+<<<<<<< HEAD
 lsfv
 ddd
+=======
+ssd
+>>>>>>> dev
