@@ -1,3 +1,4 @@
 func f1(){
-fmt.println("ssss");
+xxsadsd
+fmt.println("xxx");
 }
