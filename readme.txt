@@ -2,13 +2,9 @@ asd
 dfbskdjfb
 sss
 master
-locasss
-dfbskdjfsssb
+bskdjfsssb
 sss
 sddfbskdjfb
-<<<<<<< HEAD
 lsfv
-ddd
-=======
+sssddd
 ssd
->>>>>>> dev
