@@ -1,4 +1,5 @@
 func f1(){
 xxsadsdsss
 fmt.println("remote");
+fmt.println("local");
 }
